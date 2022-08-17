@@ -4,7 +4,7 @@
 
 > A autenticação não é totalmente segura!
 
-> Ela está em um script startavel somente para testes, caso queira colocar em outro script é somente copiar o codigo que pode ser encontrado em server.lua
+> Ela está em um script startavel somente para testes, caso queira colocar em outro script é somente copiar o codigo que pode ser encontrado no server.lua
 
 > Framework: STANDALONE 
 
