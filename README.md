@@ -10,4 +10,4 @@
 
 > Framework: STANDALONE 
 
-> Developed by Vieira's Store
+> Developed by: Vieira's Store
