@@ -14,6 +14,8 @@
 
 # Preview!
 
+> Version: Stable 🟢
+
 > ![image](https://user-images.githubusercontent.com/98975919/185752651-f17706ba-6683-41c2-ab4b-910181f0ad7e.png)
 
 > ![image](https://user-images.githubusercontent.com/98975919/185752661-24ef795a-f775-4004-a815-d050525ce026.png)
@@ -21,3 +23,11 @@
 > ![image](https://user-images.githubusercontent.com/98975919/185752668-c0baa03c-37e0-4042-b2e0-9d6675259be2.png)
 
 > ![image](https://user-images.githubusercontent.com/98975919/185752677-ad6f8f2c-2b55-40ea-a88e-219d373a5ff4.png)
+
+# Suporte
+Você pode buscar suporte em nosso https://discord.gg/C5tXDsZhVJ. 🆘
+
+# Contato
+- Comercial: contato.vsdev@gmail.com 🧾
+- Discord: https://discord.gg/C5tXDsZhVJ 🧾
+- Website: https://sites.google.com/view/vieiras-store/home 🧾
