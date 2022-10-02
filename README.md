@@ -1,4 +1,4 @@
-# vsAuth!
+# vsAuth
 
 > Um simples sistema de autenticação em .lua para o FiveM.
 
@@ -12,7 +12,7 @@
 
 > Developed by: Vieira's Store
 
-# Preview!
+# Preview
 
 > Version: Stable 🟢
 
