@@ -12,7 +12,7 @@ local AuthIsOK = "XXXXX" -- Coloque sua webhook substituindo os XXXXX
 local AuthIsNotOK = "XXXXX" -- Coloque sua webhook substituindo os XXXXX
 local AuthIsTimeOut = "XXXXX" -- Coloque sua webhook substituindo os XXXXX
 
-local IPLicense = "177.140.107.163" -- Substitua 0.0.0.0 com o IP de quem poderá autenticar esse script. (Site para pegar o IP: https://meuip.com.br)
+local IPLicense = "0.0.0.0" -- Substitua 0.0.0.0 com o IP de quem poderá autenticar esse script. (Site para pegar o IP: https://meuip.com.br)
 
 local AuthScript = false -- Deixe em false para a autenticação funcionar
 -------------------------------------------
