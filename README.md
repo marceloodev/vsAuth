@@ -25,7 +25,7 @@
 > ![image](https://user-images.githubusercontent.com/98975919/185752677-ad6f8f2c-2b55-40ea-a88e-219d373a5ff4.png)
 
 # Suporte
-Você pode buscar suporte em nosso https://discord.gg/C5tXDsZhVJ. 🆘
+Você pode buscar suporte em nosso discord: https://discord.gg/C5tXDsZhVJ. 🆘
 
 # Contato
 - Comercial: contato.vsdev@gmail.com 🧾
