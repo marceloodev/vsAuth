@@ -14,7 +14,7 @@ local AuthIsOK = "XXXXX" -- Coloque sua webhook substituindo os XXXXX
 local AuthIsNotOK = "XXXXX" -- Coloque sua webhook substituindo os XXXXX
 local AuthIsTimeOut = "XXXXX" -- Coloque sua webhook substituindo os XXXXX
 
-local IPLicense = "0.0.0.0" -- Substitua 0.0.0.0 com o IP de quem poderá autenticar esse script. (Site para pegar o IP: https://meuip.com.br)
+local authorizationIP = "0.0.0.0" -- Substitua 0.0.0.0 com o IP de quem poderá autenticar esse script. (Site para pegar o IP: https://meuip.com.br)
 
 local AuthScript = false -- Deixe em false para a autenticação funcionar
 -------------------------------------------
@@ -35,7 +35,7 @@ PerformHttpRequest("http://api.ipify.org/", function(err, data)
             AuthScript = false
             Wait(1000)
             print("^8[resource_name] Não autenticado - Qualquer duvida -> Name#XXXX") -- Substitua Name#XXXX Pelo seu discord EX: EuNoah#8056
-            SendWebhookMessage(AuthIsNotOK,"```prolog\n[O IP]: "..selfIp.."\n[NÃO AUTENTICOU]: O Script [resource_name] utilizando a licença do IP: "..IPLicense.." " ..os.date("\n[Data]: %d/%m/%Y [Hora]: %H:%M:%S").." \r```")
+            SendWebhookMessage(AuthIsNotOK,"```prolog\n[O IP]: "..selfIp.."\n[NÃO AUTENTICOU]: O Script [resource_name] utilizando a licença do IP: "..authorizationIP.." " ..os.date("\n[Data]: %d/%m/%Y [Hora]: %H:%M:%S").." \r```")
             Wait(10000)
             os.exit()
         end
